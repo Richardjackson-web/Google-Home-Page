@@ -1,0 +1,84 @@
+.mypicture{
+    border-radius: 5rem;
+}
+.first{
+    display: inline-block !important;
+    position: absolute;
+    left: 90%;
+    transform: translateX(-50%);
+}
+.Gmail{
+    margin-right: 1rem;
+}
+.Images{
+    margin-right: 1rem;
+}
+.icons{
+    margin-right: 1rem;
+}
+.google{
+    text-align: center;
+}
+.third{
+    text-align: center;
+}
+.buttons{
+    text-align: center;
+    margin-top: 2rem;
+}
+.search{
+    background-color: rgb(250, 247, 247);
+    border: #fff
+}
+.offered{
+    text-align: center !important;
+    margin-top: 1rem;
+}
+.para{
+    display: inline-block !important;
+    margin: 0 auto;
+}
+.field{
+    border-radius: 3rem;
+    padding-left: 13rem;
+    padding-top: 1.5rem;
+}
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(240, 239, 239);
+    color: rgb(54, 54, 54);
+    margin-top: 5rem;
+}
+.foot{
+    display: inline-block !important;
+    margin-left: 1rem;
+}
+.carbon{
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+}
+.car1{
+    position: absolute;
+    left: 88%;
+    transform: translateX(-50%);
+}
+.car2{
+    position: absolute;
+    left: 92%;
+    transform: translateX(-50%);
+}
+.car3{
+    position: absolute;
+    left: 96%;
+    transform: translateX(-50%);
+}
+.nigeria{
+    margin-left: 2rem;
+}
+a{
+    text-decoration: none;
+}
